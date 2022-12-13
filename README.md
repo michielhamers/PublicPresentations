@@ -1,3 +1,5 @@
+This repo is for all presentations that Michiel Hamers presented and can be shared. https://about.me/michielhamers
+
 # PublicPresentations
 
 2022-DEC-13
