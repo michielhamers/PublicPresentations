@@ -2,9 +2,19 @@ This repo is for all presentations that Michiel Hamers presented and can be shar
 
 # PublicPresentations
 
-2023 
+
+2023
+#Dutch MCT Community Meetup
+Hitchhicker's guide to Certification <link follows>
+
+#Trackmeeting 
+AI Debate Game
+
+#Devconf
+Desigin for costs : https://github.com/OrdinaNederland/designforcosts
+
 #FutureTech
-Hitchhicker's guide to Certification <link floo
+Hitchhicker's guide to Certification <link follows>
 
 #Developerweek San Francisco, USA
 Desigin for costs : https://github.com/OrdinaNederland/designforcosts
