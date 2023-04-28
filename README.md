@@ -4,7 +4,7 @@ This repo is for all presentations that Michiel Hamers presented and can be shar
 
 ## 2023
 
-### Global PowerShell & Devops Summit 
+### Global PowerShell & Devops Summit
 
 Location: Bellevue (Seattle), Washington, USA
 Date: 2023-04-27
