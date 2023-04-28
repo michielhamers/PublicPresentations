@@ -1,43 +1,61 @@
-This repo is for all presentations that Michiel Hamers presented and can be shared. https://about.me/michielhamers
-
 # PublicPresentations
 
+This repo is for all presentations that Michiel Hamers presented and can be shared. <https://about.me/michielhamers>
 
-2023
-#Dutch MCT Community Meetup
-Hitchhicker's guide to Certification <link follows>
+## 2023
 
-#Trackmeeting 
-AI Debate Game
+### Global PowerShell & Devops Summit 
 
-#Devconf
-Desigin for costs : https://github.com/OrdinaNederland/designforcosts
+Location: Bellevue (Seattle), Washington, USA
+Date: 2023-04-27
+PDF version: <2023\20230427 How I created my PowerShell Escape Room.pdf>
 
-#FutureTech
-Hitchhicker's guide to Certification <link follows>
+### Dutch MCT Community Meetup
 
-#Developerweek San Francisco, USA
-Desigin for costs : https://github.com/OrdinaNederland/designforcosts
+Hitchhicker's guide to Certification (link not yet available)
 
-#Developerweek, Online
-Desigin for costs : https://github.com/OrdinaNederland/designforcosts
+### Trackmeeting
 
-#DutchCloudmeetup, Online
-Desigin for costs : https://github.com/OrdinaNederland/designforcosts
+AI Debate Game (link not yet available)
 
-#Developerweek San Francisco
-Desigin for costs : https://github.com/OrdinaNederland/designforcosts
+### Devconf
 
-2022
-2022-DEC-13
-#AzDevCom, Munchen, Germany
-I Robot, from planet Azure https://github.com/michielhamers/PublicPresentations/blob/main/2022/20221213_IrobotMunchen.pdf
+Design for costs : <https://github.com/OrdinaNederland/designforcosts>
 
-#VISUGXL Belgium
-Desigin for costs : https://github.com/OrdinaNederland/designforcosts
+## FutureTech
 
-#AZDEVCONF Chennai, India
-Desigin for costs : https://github.com/OrdinaNederland/designforcosts
+Hitchhicker's guide to Certification (link not yet available)
 
-# Speaker Profile
-Sessionize https://sessionize.com/michielhamers/
+### Developerweek San Francisco, USA
+
+Design for costs : <https://github.com/OrdinaNederland/designforcosts>
+
+### Developerweek, Online
+
+Design for costs : <https://github.com/OrdinaNederland/designforcosts>
+
+### DutchCloudmeetup, Online
+
+design for costs : <https://github.com/OrdinaNederland/designforcosts>
+
+### Developerweek San Francisco
+
+design for costs : <https://github.com/OrdinaNederland/designforcosts>
+
+## 2022
+
+### AzDevCom, Munchen, Germany
+
+I Robot, from planet Azure <https://github.com/michielhamers/PublicPresentations/blob/main/2022/20221213_IrobotMunchen.pdf>
+
+### VISUGXL Belgium
+
+design for costs : <https://github.com/OrdinaNederland/designforcosts>
+
+### AZDEVCONF Chennai, India
+
+design for costs : <https://github.com/OrdinaNederland/designforcosts>
+
+## Speaker Profile
+
+Sessionize <https://sessionize.com/michielhamers/>
