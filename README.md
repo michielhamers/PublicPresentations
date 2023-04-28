@@ -8,7 +8,7 @@ This repo is for all presentations that Michiel Hamers presented and can be shar
 
 Location: Bellevue (Seattle), Washington, USA
 Date: 2023-04-27
-PDF version: <2023\20230427 How I created my PowerShell Escape Room.pdf>
+[PDF version](2023\20230427 How I created my PowerShell Escape Room.pdf)
 
 ### Dutch MCT Community Meetup
 
