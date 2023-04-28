@@ -7,9 +7,9 @@ This repo is for all presentations that Michiel Hamers presented and can be shar
 ### Global PowerShell & Devops Summit
 
 - Presentation: How I created my PowerShell EscapeRoom
-  Location: Bellevue (Seattle), Washington, USA
-  Date: 2023-04-27
-  [PDF version](./2023/20230427%20How%20I%20created%20my%20PowerShell%20Escape%20Room.pdf)
+- Location: Bellevue (Seattle), Washington, USA
+- Date: 2023-04-27
+  > [PDF version](./2023/20230427%20How%20I%20created%20my%20PowerShell%20Escape%20Room.pdf)
 
 ### Dutch MCT Community Meetup
 
@@ -48,9 +48,9 @@ design for costs : <https://github.com/OrdinaNederland/designforcosts>
 ### AzDevCom
 
 - Presentation: I Robot, from planet Azure
-  Location: Munchen, Germany
-  Date: 2022-12-13
-  [PDF version](./2022/20221213_IrobotMunchen.pdf)
+- Location: Munchen, Germany
+- Date: 2022-12-13
+  > [PDF version](./2022/20221213_IrobotMunchen.pdf)
 
 ### VISUGXL Belgium
 
