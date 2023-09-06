@@ -2,6 +2,14 @@
 
 This repo is for all presentations that Michiel Hamers presented and can be shared. <https://about.me/michielhamers>
 
+# Future events
+- 2023 September 13: Azure Fest - Ordina HQ
+- 2023 November 14: APE - Pink Elephant Naarden - https://www.meetup.com/azure-platform-engineering/events/292404394/
+- 2023 December 4-6: European Cloud Summit, Wiesbaden - https://cloudsummit.eu/?gclid=Cj0KCQjwxuCnBhDLARIsAB-cq1qQmSEQ3Gr9ILaVm1cWcHycDQBtkPGLqaqM-BMWF_PDiyI_OPYxNo0aAhT_EALw_wcB
+- 2024 Feb 29 & March 1: DEVWORLD CONFERENCE, Rai Amsterdam - https://devworldconference.com/
+
+
+# Past events
 ## 2023
 
 ### Global PowerShell & Devops Summit
