@@ -12,7 +12,7 @@ This repo is for all presentations that Michiel Hamers presented and can be shar
 # Past events
 ## 2024
 ### Admin Days Poland 2024
-download presentation [https://we.tl/t-yuFMFIAHdS](https://1drv.ms/p/s!Ajm9Nn1zCzHhsZIGkYE4AdfjMlZc1Q?e=GN8LcM)
+download presentation https://1drv.ms/p/s!Ajm9Nn1zCzHhsZIGkYE4AdfjMlZc1Q?e=GN8LcM
 
 
 ## 2023
