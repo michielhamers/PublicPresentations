@@ -3,19 +3,24 @@
 This repo is for all presentations that Michiel Hamers presented and can be shared. <https://about.me/michielhamers>
 
 # Future events
-- 2023 September 13: Azure Fest - Ordina HQ
-- 2023 November 14: APE - Pink Elephant Naarden - https://www.meetup.com/azure-platform-engineering/events/292404394/
-- 2023 December 4-6: European Cloud Summit, Wiesbaden - https://cloudsummit.eu/?gclid=Cj0KCQjwxuCnBhDLARIsAB-cq1qQmSEQ3Gr9ILaVm1cWcHycDQBtkPGLqaqM-BMWF_PDiyI_OPYxNo0aAhT_EALw_wcB
-- 2024 Feb 29 & March 1: DEVWORLD CONFERENCE, Rai Amsterdam - https://devworldconference.com/
 
 
 # Past events
 ## 2024
 ### Admin Days Poland 2024
-download presentation https://1drv.ms/p/s!Ajm9Nn1zCzHhsZIGkYE4AdfjMlZc1Q?e=GN8LcM
+- Presentation: PowerShell Escape Room
+- download presentation: https://1drv.ms/p/s!Ajm9Nn1zCzHhsZIGkYE4AdfjMlZc1Q?e=GN8LcM
+- date 2024-10-24
+
+### Devworld conference
+- 2024 Feb 29 & March 1: DEVWORLD CONFERENCE, Rai Amsterdam - https://devworldconference.com/
 
 
 ## 2023
+
+- 2023 September 13: Azure Fest - Ordina HQ
+- 2023 November 14: APE - Pink Elephant Naarden - https://www.meetup.com/azure-platform-engineering/events/292404394/
+- 2023 December 4-6: European Cloud Summit, Wiesbaden - https://cloudsummit.eu/?gclid=Cj0KCQjwxuCnBhDLARIsAB-cq1qQmSEQ3Gr9ILaVm1cWcHycDQBtkPGLqaqM-BMWF_PDiyI_OPYxNo0aAhT_EALw_wcB
 
 ### Global PowerShell & Devops Summit
 
