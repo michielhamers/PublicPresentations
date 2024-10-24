@@ -10,6 +10,11 @@ This repo is for all presentations that Michiel Hamers presented and can be shar
 
 
 # Past events
+## 2024
+### Admin Days Poland 2024
+download presentation https://we.tl/t-yuFMFIAHdS
+
+
 ## 2023
 
 ### Global PowerShell & Devops Summit
